@@ -62,9 +62,8 @@ Se você vive de agenda, Horus é pra você.
 ## 🖼️ Imagens do Projeto
 Confira uma prévia do HORUS:
 
-![Imagem da Aplicação](.//images/imagem01.png)
+![Imagem da Aplicação](./images/imagem01.png)
 
-![Imagem da Aplicação](.//images/imagem02.png)
+![Imagem da Aplicação](./images/Imagem02.png)
 
-![Imagem da Aplicação](.//images/imagem03.png)
-  
+![Imagem da Aplicação](./images/imagem03.png)
